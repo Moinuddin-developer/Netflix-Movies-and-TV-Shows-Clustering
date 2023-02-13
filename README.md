@@ -12,7 +12,7 @@
 
 <h2> :floppy_disk: Project Files Description</h2>
 
-<p>This Project includes 1 colab notebook, 1 technical documentation as well as 1 presentation:</p>
+<p>This Project includes 1 colab notebook, 1 technical documentation , 1 Project Summar documentation as well as 1 presentation:</p>
 <h4>Executable Files:</h4>
 <ul>
   <li><b>NETFLIX MOVIES AND TV SHOWS CLUSTERING.ipynb</b> - Includes all functions required for classification operations.</li>
