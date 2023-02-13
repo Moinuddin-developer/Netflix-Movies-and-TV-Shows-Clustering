@@ -2,7 +2,7 @@
   <img src="Images/netflix-logo-png-2574.png" alt="netflix-logo-png-2574.png" width="80px" height="80px">
 </p>
 <h1 align="center"> NETFLIX MOVIES AND TV SHOWS CLUSTERING </h1>
-<h3 align="center"> AlmaBetter Verfied Project - <a href="https://www.almabetter.com/"> AlmaBetter </a> </h5>
+
 
 <p align="center"> 
 <img src="Gif/netflix-netflix-logo.gif" alt="Animated gif" height="382px">
@@ -63,7 +63,7 @@ Integrating this dataset with other external datasets such as IMDB ratings, rott
 NetflixRecommender recommends Netflix movies and TV shows based on a user's favourite movie or TV show. It uses a Natural Language Processing (NLP) model and a K-Means Clustering model to make these recommendations. These models use information about movies and TV shows such as their plot descriptions and genres to make suggestions. The motivation behind this project is to develop a deeper understanding of recommender systems. Specifically, thinking about how companies like Netflix and YouTube create algorithms to tailor content based on user interests and behaviour.
 I created a Dash web app that utlizes my model to provide film recommendations based on a user's favourite movie or TV show.
 
-![App](https://github.com/San13deep/NETFLIX-MOVIES-AND-TV-SHOWS-CLUSTERING/blob/6eacd171009b37abffa5992fe32c2bfc45384043/Images/App.png)
+![App](https://github.com/Moinuddin-developer/Netflix-Movies-and-TV-Shows-Clustering/blob/main/Images/App.png)
 
 # Exploring Solutions:
 Having a deeper understanding of what problem we are trying to solve, what the users’ needs, and frustrations are, and what the goals are for achieving the best possible solution for both for the business as well as the user, I began by listing out the possible solutions that were arrived from the research.
